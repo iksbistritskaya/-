@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\bin\Debug\Native Place.exe.config
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\bin\Debug\Native Place.exe
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\bin\Debug\Native Place.pdb
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.exe
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.pdb
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Form2.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Form3.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Form5.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Form6.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native_Place.Form1.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\bin\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\bin\Debug\itextsharp.xml
+C:\Users\lenovo\Desktop\Курсовая работа\Native Place\Native Place\obj\Debug\Native Place.csproj.CopyComplete
